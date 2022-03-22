@@ -1,0 +1,15 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("https://th.bing.com/th/id/R.f4e493e3ebd097198e23b0a2f839499c?rik=lTPBvSAKXEX4mw&pid=ImgRaw&r=0");
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    border-radius: 10%;
+}
